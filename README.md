@@ -29,8 +29,10 @@ I'm **Anuj Buniya**, a **Python Developer** with an interest in building efficie
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/anujbuniya447-oss
+* Email: anujbuniya447@gmail.com
+* Linkedin: 
+
 
 
 <!--
