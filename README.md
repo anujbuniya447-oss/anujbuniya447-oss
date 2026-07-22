@@ -31,7 +31,7 @@ I'm **Anuj Buniya**, a **Python Developer** with an interest in building efficie
 
 * GitHub: https://github.com/anujbuniya447-oss
 * Email: anujbuniya447@gmail.com
-* Linkedin: 
+* Linkedin: https://www.linkedin.com/in/anuj-buniya-478266424/
 
 
 
